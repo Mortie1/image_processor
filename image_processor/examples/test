@@ -1,0 +1,4 @@
+/home/mortie/cpp-base-hse-2022/cmake-build-debug/image_processor input.bmp /tmp/output.bmp -crop 800 600 -gs -blur 0.5
+/home/mortie/cpp-base-hse-2022/cmake-build-debug/image_processor /home/mortie/cpp-base-hse-2022/projects/image_processor/examples/example.bmp /home/mortie/cpp-base-hse-2022/projects/image_processor/examples/output.bmp -crop 800 600 -gs
+/home/mortie/cpp-base-hse-2022/cmake-build-debug/image_processor /home/mortie/cpp-base-hse-2022/projects/image_processor/examples/example.bmp /home/mortie/cpp-base-hse-2022/projects/image_processor/examples/output.bmp
+/home/mortie/cpp-base-hse-2022/cmake-build-release/image_processor ../../projects/image_processor/examples/example.bmp ../../projects/image_processor/examples/output.bmp
